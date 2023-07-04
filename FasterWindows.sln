@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FasterWindows", "FasterWindows\FasterWindows.csproj", "{BE1BA285-E4C8-491A-B297-D97262AFE860}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementy rozwiązania", "Elementy rozwiązania", "{CEF26741-79F1-4A26-B01A-6976D3A91329}"
+	ProjectSection(SolutionItems) = preProject
+		app.manifest = app.manifest
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE1BA285-E4C8-491A-B297-D97262AFE860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1BA285-E4C8-491A-B297-D97262AFE860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1BA285-E4C8-491A-B297-D97262AFE860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1BA285-E4C8-491A-B297-D97262AFE860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2891B8FB-14BD-464A-B6EC-54E525D4339F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\szabl\source\repos\FasterWindows\FasterWindows\bin\Debug\FasterWindows.exe.config
+C:\Users\szabl\source\repos\FasterWindows\FasterWindows\bin\Debug\FasterWindows.exe
+C:\Users\szabl\source\repos\FasterWindows\FasterWindows\bin\Debug\FasterWindows.pdb
+C:\Users\szabl\source\repos\FasterWindows\FasterWindows\obj\Debug\FasterWindows.csproj.AssemblyReference.cache
+C:\Users\szabl\source\repos\FasterWindows\FasterWindows\obj\Debug\FasterWindows.csproj.SuggestedBindingRedirects.cache
+C:\Users\szabl\source\repos\FasterWindows\FasterWindows\obj\Debug\FasterWindows.Form1.resources
+C:\Users\szabl\source\repos\FasterWindows\FasterWindows\obj\Debug\FasterWindows.Properties.Resources.resources
+C:\Users\szabl\source\repos\FasterWindows\FasterWindows\obj\Debug\FasterWindows.csproj.GenerateResource.cache
+C:\Users\szabl\source\repos\FasterWindows\FasterWindows\obj\Debug\FasterWindows.csproj.CoreCompileInputs.cache
+C:\Users\szabl\source\repos\FasterWindows\FasterWindows\obj\Debug\FasterWindows.exe
+C:\Users\szabl\source\repos\FasterWindows\FasterWindows\obj\Debug\FasterWindows.pdb
+C:\Users\szabl\source\repos\FasterWindows\FasterWindows\obj\Debug\FasterWindows.LoadingForm.resources
